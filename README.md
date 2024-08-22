@@ -34,7 +34,7 @@ Taking into account user's perspective and needs, I ensure user-friendly and hig
 
 
 #### Tools
-<p align="left"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" title="jira" title="jira&" width="100" height="50"/>  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" title="jenkins" title="jenkins" width="100" height="50"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" title="javascript" title="javascript" width="90" height="22"/><img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="getpostman" title="getpostman" title="getpostman" width="120" height="60"/>   </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" title="jira" title="jira&" width="100" height="50"/>  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" title="jenkins" title="jenkins" width="100" height="50"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" title="javascript" title="javascript" width="100" height="50"/><img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="getpostman" title="getpostman" title="getpostman" width="120" height="60"/>   </p>
 
 
 <!-- Contact Section -->
